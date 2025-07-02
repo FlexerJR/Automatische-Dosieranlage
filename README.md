@@ -66,11 +66,11 @@ Since I use a solar system for this pool, I installed a D50 PVC fixed piping sys
 <h3>Step 1: Automatically measure pH and Redox values.</h3>
 
 For beginners:<br>
-In general, you can use any sensor that gives you the pH value or the redox. In the beginning, I used iopool.
-iopool is a brilliant sensor that takes the hassle out of measuring pH levels. You can view live data from the pool, and for newcomers to pool maintenance, it's a real game-changer. Simple and very accurate. A parallel measurement with Poollab 2.0 showed an estimated 95% accuracy.
-Make sure you can measure your pH value automatically. It's the most expensive part of your system, but crucial for integrating the data into my smart home. There are also other methods to measure pH. 
+In general, you can use any sensor that gives you the PH value or the redox. In the beginning, I used Iopool.
+Iopool is a brilliant sensor that takes the hassle out of measuring pH levels. You can view live data from the pool, and for newcomers to pool maintenance, it's a real game-changer. Simple and very accurate. A parallel measurement with Poollab 2.0 showed an confirmed 95% accuracy.
+Make sure you can measure your PH value automatically. It's the most expensive part of your system, but crucial for integrating the data into your smart home. There are also other methods to measure PH. 
 
-This is my current way to measure the values. Communication is via mqtt. You can find it on amazon. Important to know that you need additional probes. You can order them via aliexpress or amazon. Approx. 8€-35€
+In the picture below you can see my current way to measure the values. Communication is via mqtt every 5 seconds. You can find it on amazon. Important to know that you need additional probes. You can order them via aliexpress or amazon. Approx. 8€-35€
 
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/78024595-4599-4e51-b3e7-38d8f98adc14" />
 
