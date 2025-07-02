@@ -7,37 +7,35 @@
 <br>
 <br>
 
-:rotating_light:**THIS TEXT WILL BE UPDATED**:rotating_light:
-
-Official script can be found here on GITHUB only. Other sources are outdated.<br><br>
-Download rtf file open it with texteditor or smililar. Import text in Blocklyeditor<br><br>
-
-
+:rotating_light:Official script can be found here on GITHUB only. Other sources are outdated.:rotating_light:<br><br>
 
 This dosing system is a DIY project that I designed for my pool. It is intended for a Bestway Steel Pro Max 427x122 with a volume of 15 cubic meters. I can be used for any other pool with a pipesystem. 
 
 The entire project is subject to changes or updates to bring it up to the latest standard.
 The system construction takes about 48 hours, depending on craftsmanship skills.
 
-My dosing script is working for almost 2 years, almost without any failure. 
+My dosing script is working for almost 2 years, almost without any failure. <br>
+Download rtf file open it with texteditor or smililar. Import text in Blocklyeditor<br>
 
 <h3>Key features:</h3>
 :white_check_mark: The run time of pump operation is self-calculating.<br>
+:white_check_mark: PH has priority over chlorine.<br>
+:white_check_mark: You can use any pump system you want. We only need a switch for on/off.<br>
 :white_check_mark: Weather influences are automatically corrected.<br>
-:white_check_mark: Runtime will be orrected, if your chlorine becomes more and more inefficient <br>
+:white_check_mark: Runtime will be corrected, if your chlorine becomes more and more inefficient.<br>
 :white_check_mark: You can add water to your pool at any time without worrying about the pH value.<br>
 :white_check_mark: When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
 :white_check_mark: There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 :white_check_mark: The goal is to gradually reduce the pH to 7.2 (adjustable) and below over several days with smaller amounts of chemicals.<br>
-:white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.
-<br>
+:white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.<br>
+
 <h3>Outlook of future version:</h3>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
 :smiley: Long term warning if your chemicals become ineffective.<br>
 :smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
 <br>
 <br>
-Check wiki page for further information https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints <br><br>
+Check wiki page for further explanation https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints <br><br>
 
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 13 29 52" src="https://github.com/user-attachments/assets/75340805-8403-42bd-9166-e9bcaf7bc2af" />
 
