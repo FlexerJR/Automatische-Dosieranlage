@@ -22,17 +22,19 @@ The system construction takes about 48 hours, depending on craftsmanship skills.
 My dosing script is working for almost 2 years, almost without any failure. 
 
 <h3>Key features:</h3>
-1. The run times are self-calculating.<br>
-2. Weather influences are automatically corrected.<br>
-3. You can add water to your pool at any time without worrying about the pH value.<br>
-4. When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
-5. There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
-6. The goal is to gradually reduce the pH to 7.2 and below over several days with smaller amounts of chemicals.<br>
-7. Alias binding for your datapoints. Just enter sensors and fire up the script.
+:white_check_mark: The run time of pump operation is self-calculating.<br>
+:white_check_mark: Weather influences are automatically corrected.<br>
+:white_check_mark: Runtime will be orrected, if your chlorine becomes more and more inefficient <br>
+:white_check_mark: You can add water to your pool at any time without worrying about the pH value.<br>
+:white_check_mark: When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
+:white_check_mark: There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
+:white_check_mark: The goal is to gradually reduce the pH to 7.2 (adjustable) and below over several days with smaller amounts of chemicals.<br>
+:white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.
 <br>
-<br>
-<h3>Features of future version:</h3>
-1. Autocalibration mode for runtime. Script will detect according to the situation if pool is use or not. Thats great to reduce chemicals. 
+<h3>Outlook of future version:</h3>
+:smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
+:smiley: Long term warning if your chemicals become ineffective.<br>
+:smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
 <br>
 <br>
 Check wiki page for further information https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints <br><br>
