@@ -8,8 +8,8 @@
 
 :rotating_light:**THIS TEXT WILL BE UPDATED**:rotating_light:
 
-Official script can be found here on GITHUB only. Other sources are outdated.
-
+Official script can be found here on GITHUB only. Other sources are outdated.<br><br>
+Download rtf file open it with texteditor or smililar. Import text in Blocklyeditor<br><br>
 This dosing system is a DIY project that I designed for my pool. It is intended for a Bestway Steel Pro Max 427x122 with a volume of 15 cubic meters. I can be used for any other pool with a pipesystem. 
 
 The entire project is subject to changes or updates to bring it up to the latest standard.
