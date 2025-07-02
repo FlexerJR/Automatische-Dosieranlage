@@ -1,4 +1,4 @@
-<H1>ioBroker automatic smart dosing system for your pool</H1><br>
+<H1>ioBroker automatic smart dosing system</H1><br>
 <img width="800" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/360993ba-7bee-4244-af24-dc68bc84c292" />
 <img width="800" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/c98a46a7-58fe-4930-9cf6-0dbd4641376a" />
 <img width="800" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/334a1773-f809-4697-b298-da825a4191d5" />
