@@ -29,6 +29,13 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :white_check_mark: There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 :white_check_mark: The goal is to gradually reduce the pH to 7.2 (adjustable) and below over several days with smaller amounts of chemicals.<br>
 :white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.<br>
+<br>
+<h3>Hardware needed</h3>
+:wrench:Sensor for pH and redox<br>
+:wrench:Switch for pool pump<br>
+:wrench:Switch for pH pump<br>
+:wrench:Switch for redox pump<br>
+:wrench:All sensors and switches must be controllable via iobroker<br>
 
 <h3>Outlook of future version:</h3>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
