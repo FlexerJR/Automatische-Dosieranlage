@@ -88,6 +88,25 @@ Chlorine and Redox<br>
  ***BOM coming soon*** <br>
 For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! 
 
+| Amount  | Typ | Link  |
+| ------------- | ------------- | ------------- |
+|1|Elektrodenhalter|[ PVC Welt  ](https://www.pvc-welt.de/PVC-U-Elektrodenhalter-HTC-transparent-2fach-2-3-Verschraubung)|
+|1-3|Alternative Impfstelle|[ PVC Welt  ](https://www.pvc-welt.de/Elektrodenhalter-Impf-Dosieranschluss-auf-Anbohrschelle_2)|
+| 1-3 |Fafeicy G528 DC12V Mini|[ Amazon  ](https://www.amazon.de/dp/B08FR9N3PQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
+| 1-3 |Reduzierstück 3/8 auf 1/2|Missing Link|
+| 1-3 |Sonoff 4ch Pro|[ Amazon  ](https://www.amazon.de/sonoff-4ch-pro/s?k=sonoff+4ch+pro)|
+|3|Gewindestopfen|[ Amazon  ](https://www.amazon.de/dp/B00512O0WQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
+|1|Teflonband|[ Amazon  ](https://www.amazon.de/s?k=teflonband+gewindedichtband&crid=24MYZBZUUGVMY&sprefix=teflonband%2Caps%2C102&ref=nb_sb_ss_pltr-xclick_2_10)|
+|5m-25m|Schlauch 4/6|[ Amazon  ](https://www.amazon.de/dp/B005JYLABK?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
+|1|15W Netzteil|[ Amazon  ](https://www.amazon.de/dp/B09MHYD1FG?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
+|2x5|Wago-Klemmen|[ Amazon  ](https://www.amazon.de/dp/B077J2GWM8?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
+|1|Tangit Kleber|[ Amazon  ](https://www.amazon.de/dp/B00DY40144?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
+|1|PVC-Reiniger|[ Amazon  ](https://www.amazon.de/dp/B00BNSS4CE?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
+|2-6|M3 Schrauben|Missing Link|
+|2-6|M3 Gewindeeinsätze|[ Content Cell  ](https://www.amazon.de/s?k=m3+heat+insert&crid=2GVKFLDHMI3L9&sprefix=m3+heat%2Caps%2C122&ref=nb_sb_ss_pltr-xclick_1_7)|
+
+
+
 <h3>Link list</h3><br>
 Bracket for pump https://makerworld.com/de/models/552588-eng-ger-smart-dosing-system-pool-iopool-iob#profileId-473624 <br>
 Bracket for wago https://makerworld.com/de/models/192672-wago-221-modular-mount-organiser-for-all-types#profileId-212959<br><br>
