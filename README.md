@@ -29,7 +29,8 @@ A long-term test is done!
 I appreciate your likes and comments.
 
 Since I use a solar system for this pool, I installed a D50 PVC fixed piping system. It's important to know this as the dosing system works best with it.
- 
+
+[!WARNING]
 Please note: 
 You always act at your own risk. Minor electrical work is required, and safe handling of chemicals is essential for safe operation. Please do not put yourself in danger, and consult a professional if unsure. You act at your own risk. Furthermore, I emphasize that I am not a professional and have acquired the necessary expertise on my own.
 I do not accept any liability or warranty for your actions in any form.
