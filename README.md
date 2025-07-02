@@ -27,7 +27,8 @@ My dosing script is working for almost 2 years, almost without any failure.
 7. Alias binding for you datapoints. Just enter sensors and fire up the script.
 <br>
 <br>
-<img width="570" alt="Bildschirmfoto 2025-07-02 um 13 19 53" src="https://github.com/user-attachments/assets/914c8e18-3497-4800-9d69-55be4221f763" />
+<img width="570" alt="Bildschirmfoto 2025-07-02 um 13 29 52" src="https://github.com/user-attachments/assets/75340805-8403-42bd-9166-e9bcaf7bc2af" />
+
 <br>
 <br>
 This comprehensive setup ensures your pool maintenance is automated, efficient,and adaptable to different pool sizes and conditions.
