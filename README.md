@@ -1,4 +1,4 @@
-Automatic smart dosing system for your pool
+<H1>Automatic smart dosing system for your pool</H1>
 
 ![IMG_4430](https://github.com/user-attachments/assets/c98a46a7-58fe-4930-9cf6-0dbd4641376a)
 
