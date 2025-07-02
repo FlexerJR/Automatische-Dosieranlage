@@ -85,8 +85,8 @@ Chlorine and Redox<br>
 ***description coming soon***
 
 
- ***BOM coming soon*** <br>
-For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! 
+ ***BOM*** <br>
+For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! List not completed.
 
 | Amount  | Typ | Link  |
 | ------------- | ------------- | ------------- |
