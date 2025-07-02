@@ -31,6 +31,10 @@ My dosing script is working for almost 2 years, almost without any failure.
 7. Alias binding for your datapoints. Just enter sensors and fire up the script.
 <br>
 <br>
+<h3>Features of future version:</h3>
+1. Autocalibration mode for runtime. Script will detect according to the situation if pool is use or not. Thats great to reduce chemicals. 
+<br>
+<br>
 Check wiki page for further information https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints <br><br>
 
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 13 29 52" src="https://github.com/user-attachments/assets/75340805-8403-42bd-9166-e9bcaf7bc2af" />
