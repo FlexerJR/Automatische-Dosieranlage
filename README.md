@@ -41,7 +41,7 @@ Check wiki page for further explanation https://github.com/FlexerJR/Automatische
 
 <br>
 <br>
-This comprehensive setup ensures your pool maintenance is automated, efficient,and adaptable to different pool sizes and conditions.
+This comprehensive setup ensures your pool maintenance is automated, efficient and adaptable to different pool sizes and conditions.
 
 Here you can see the control of PH value
 <br>
