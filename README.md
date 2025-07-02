@@ -24,13 +24,22 @@ My dosing script is working for almost 2 years, almost without any failure.
 4. When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
 5. There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 6. The goal is to gradually reduce the pH to 7.2 and below over several days with smaller amounts of chemicals.<br>
+7. Alias binding for you datapoints. Just enter sensors and fire up the script.
+<br>
+<br>
+<img width="570" alt="Bildschirmfoto 2025-07-02 um 13 19 53" src="https://github.com/user-attachments/assets/914c8e18-3497-4800-9d69-55be4221f763" />
+<br>
+<br>
+This comprehensive setup ensures your pool maintenance is automated, efficient,and adaptable to different pool sizes and conditions.
 
-This comprehensive setup ensures your pool maintenance is automated, efficient, and adaptable to different pool sizes and conditions.
-
-Here you can see the control of PH value<br>
+Here you can see the control of PH value
+<br>
+<br>
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 11 17 22" src="https://github.com/user-attachments/assets/8473c399-2f72-4d61-acdc-ae8c564107d8" />
 
-Here you can see Redox value<br>
+Here you can see Redox value
+<br>
+<br>
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 11 18 41" src="https://github.com/user-attachments/assets/614d3ad7-4499-4a48-b809-245e74a0b342" />
 
 
