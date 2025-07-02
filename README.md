@@ -12,7 +12,7 @@
 Official script can be found here on GITHUB only. Other sources are outdated.<br><br>
 Download rtf file open it with texteditor or smililar. Import text in Blocklyeditor<br><br>
 
-Check wiki page https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints for further infomation<br><br>
+
 
 This dosing system is a DIY project that I designed for my pool. It is intended for a Bestway Steel Pro Max 427x122 with a volume of 15 cubic meters. I can be used for any other pool with a pipesystem. 
 
@@ -31,6 +31,8 @@ My dosing script is working for almost 2 years, almost without any failure.
 7. Alias binding for your datapoints. Just enter sensors and fire up the script.
 <br>
 <br>
+Check wiki page for further information https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints <br><br>
+
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 13 29 52" src="https://github.com/user-attachments/assets/75340805-8403-42bd-9166-e9bcaf7bc2af" />
 
 <br>
