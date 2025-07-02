@@ -1,14 +1,10 @@
-<H1>Automatic smart dosing system for your pool</H1><br><br>
-<h4>***You need iobroker***</h4>
-
-
-![IMG_4430](https://github.com/user-attachments/assets/c98a46a7-58fe-4930-9cf6-0dbd4641376a)
-
-
-
+<H1>ioBroker automatic smart dosing system for your pool</H1><br>
+<img width="800" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/360993ba-7bee-4244-af24-dc68bc84c292" />
+<img width="800" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/c98a46a7-58fe-4930-9cf6-0dbd4641376a" />
+<br>
 :rotating_light:**THIS TEXT WILL BE UPDATED**:rotating_light:
 
-Official script can be found here GITHUB VERSION 4.0 alpha is online
+Official script can be found here on GITHUB only. Other sources are outdated.
 
 This dosing system is a DIY project that I designed for my pool. It is intended for a Bestway Steel Pro Max 427x122 with a volume of 15 cubic meters. I can be used for any other pool with a pipesystem. 
 
@@ -23,12 +19,12 @@ My dosing script is working for almost 2 years, almost without any failure.
 3. You can add water to your pool at any time without worrying about the pH value.<br>
 4. When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
 5. There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
-The goal is to gradually reduce the pH to 7.2 and below over several days with smaller amounts of chemicals.
+6. The goal is to gradually reduce the pH to 7.2 and below over several days with smaller amounts of chemicals.<br>
 
 This comprehensive setup ensures your pool maintenance is automated, efficient, and adaptable to different pool sizes and conditions.
 
 Here you can see the control of PH value<br>
-<img width="583" alt="Bildschirmfoto 2025-07-02 um 11 17 22" src="https://github.com/user-attachments/assets/8473c399-2f72-4d61-acdc-ae8c564107d8" />
+<img width="570" alt="Bildschirmfoto 2025-07-02 um 11 17 22" src="https://github.com/user-attachments/assets/8473c399-2f72-4d61-acdc-ae8c564107d8" />
 
 Here you can see Redox value<br>
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 11 18 41" src="https://github.com/user-attachments/assets/614d3ad7-4499-4a48-b809-245e74a0b342" />
@@ -47,8 +43,7 @@ Since I use a solar system for this pool, I installed a D50 PVC fixed piping sys
 
 
 
-<h3>Functionality & Installation
-Step 1: Automatically measure pH and Redox values.</h3>
+<h3>Step 1: Automatically measure pH and Redox values.</h3>
 
 For beginners:<br>
 In general, you can use any sensor that gives you the pH value or the redox. In the beginning, I used iopool.
@@ -57,7 +52,7 @@ Make sure you can measure your pH value automatically. It's the most expensive p
 
 This is my current way to measure the values. Communication is via mqtt
 
-![71f4qfRfIpL _SL1500_](https://github.com/user-attachments/assets/78024595-4599-4e51-b3e7-38d8f98adc14)
+<img width="570" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/78024595-4599-4e51-b3e7-38d8f98adc14" />
 
  
 <h3>Step 2: Fixed Piping</h3><br>
@@ -66,9 +61,8 @@ A D50 fixed piping system is the best thing you can do for your pool. Please edu
  
 The injection site has 3 openings for so-called injection valves. You can find the link to these in the BOM below. The 3 injection sites have ½ inch threads. I also got the injection valves from the same manufacturer. The hose connection is 4/6. The valve thread is 3/8. To fit the 3/8 inch valve into the ½ inch thread, a reducing thread is required. You can also get this through the website. Unfortunately, I no longer have the link, but you can simply contact the manufacturer or call them!
  
-<h3>Smart Home<br>
-ioBroker & Grafana<br>
-Step 3: ioBroker Smart Home</h3><br>
+
+<h3>Step 3: ioBroker Smart Home</h3><br>
 No separate control unit is needed for this WiFi-operated dosing system. The calculations and operation times for dosing are managed through the smart home. ioBroker is the tool of choice here. If you're not familiar with ioBroker, check YouTube to learn the basics. If you already have ioBroker up and running, congratulations. Just import the script and adjust it to your data points and preferences. Further instructions are in the comment boxes of the script.
 
 Attention: I am currently working intensively on the script. Please read the updates.
