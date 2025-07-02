@@ -82,6 +82,10 @@ This comprehensive setup ensures your pool maintenance is automated, efficient, 
  ***BOM coming soon*** <br>
 For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! 
 
+<h3>Link list</h3><br>
+Bracket for pump https://makerworld.com/de/models/552588-eng-ger-smart-dosing-system-pool-iopool-iob#profileId-473624 <br><br>
+
+
 I appreciate your likes and comments.
 
 Best regards
