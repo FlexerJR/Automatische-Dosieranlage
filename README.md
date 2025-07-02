@@ -1,4 +1,6 @@
-<H1>Automatic smart dosing system for your pool</H1>
+<H1>Automatic smart dosing system for your pool</H1><br><br>
+<h4>***You need iobroker***</h4>
+
 
 ![IMG_4430](https://github.com/user-attachments/assets/c98a46a7-58fe-4930-9cf6-0dbd4641376a)
 
@@ -21,8 +23,9 @@ My dosing script is working for almost 2 years, almost without any failure.
 3. You can add water to your pool at any time without worrying about the pH value.<br>
 4. When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
 5. There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
- 
 The goal is to gradually reduce the pH to 7.2 and below over several days with smaller amounts of chemicals.
+
+This comprehensive setup ensures your pool maintenance is automated, efficient, and adaptable to different pool sizes and conditions.
 
 Here you can see the control of PH value<br>
 <img width="583" alt="Bildschirmfoto 2025-07-02 um 11 17 22" src="https://github.com/user-attachments/assets/8473c399-2f72-4d61-acdc-ae8c564107d8" />
@@ -66,9 +69,10 @@ The injection site has 3 openings for so-called injection valves. You can find t
 <h3>Smart Home<br>
 ioBroker & Grafana<br>
 Step 3: ioBroker Smart Home</h3><br>
-No separate control unit is needed for this WiFi-operated dosing system. The calculations and operation times for dosing are managed through the smart home. ioBroker is the tool of choice here. If you're not familiar with ioBroker, check YouTube to learn the basics. If you already have ioBroker up and running, congratulations. Just import the script and adjust it to your data points and preferences.
-Attention: I am currently working intensively on the script. Please read the updates at the end for the current status.
-Here is the logic of Script V3
+No separate control unit is needed for this WiFi-operated dosing system. The calculations and operation times for dosing are managed through the smart home. ioBroker is the tool of choice here. If you're not familiar with ioBroker, check YouTube to learn the basics. If you already have ioBroker up and running, congratulations. Just import the script and adjust it to your data points and preferences. Further instructions are in the comment boxes of the script.
+
+Attention: I am currently working intensively on the script. Please read the updates.
+Here is the logic of Script V4.0 alpha
  
 pH Value<br>
 ***description coming soon***
@@ -76,8 +80,6 @@ pH Value<br>
 Chlorine and Redox<br>
 ***description coming soon***
 
- 
-This comprehensive setup ensures your pool maintenance is automated, efficient, and adaptable to different pool sizes and conditions.
 
  ***BOM coming soon*** <br>
 For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! 
