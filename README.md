@@ -43,6 +43,13 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
 <br>
 <br>
+
+> [!WARNING]
+>**Please note: 
+>You always act at your own risk. Minor electrical work is required, and safe handling of chemicals is essential for safe operation. Please do not put yourself in danger, and consult a >professional if unsure. You act at your own risk. Furthermore, I empHasize that I am not a professional and have acquired the necessary expertise on my own.
+>I do not accept any liability or warranty for your actions in any form.**
+>
+
 Check wiki page for further explanation https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints <br><br>
 
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 13 29 52" src="https://github.com/user-attachments/assets/75340805-8403-42bd-9166-e9bcaf7bc2af" />
@@ -61,17 +68,10 @@ Here you can see Redox value
 <br>
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 11 18 41" src="https://github.com/user-attachments/assets/614d3ad7-4499-4a48-b809-245e74a0b342" />
 
-
-Since I use a solar system for this pool, I installed a D50 PVC fixed piping system. It's important to know this as the dosing system works best with it.
-
-> [!WARNING]
->**Please note: 
->You always act at your own risk. Minor electrical work is required, and safe handling of chemicals is essential for safe operation. Please do not put yourself in danger, and consult a >professional if unsure. You act at your own risk. Furthermore, I empHasize that I am not a professional and have acquired the necessary expertise on my own.
->I do not accept any liability or warranty for your actions in any form.**
-
 <h3>Step 1: Automatically measure pH and Redox values.</h3>
 
 For beginners:<br>
+Since I use a solar system for this pool, I installed a D50 PVC fixed piping system. It's important to know this as the dosing system works best with it.
 In general, you can use any sensor that gives you the pH value or the redox. In the beginning, I used Iopool.
 Iopool is a brilliant sensor that takes the hassle out of measuring pH levels. You can view live data from the pool, and for newcomers to pool maintenance, it's a real game-changer. Simple and very accurate. A parallel measurement with Poollab 2.0 showed an confirmed 95% accuracy.
 Make sure you can measure your pH value automatically. It's the most expensive part of your system, but crucial for integrating the data into your smart home. There are also other methods to measure pH. 
