@@ -25,7 +25,7 @@ My dosing script is working for almost 2 years, almost without any failure.
 4. When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
 5. There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 6. The goal is to gradually reduce the pH to 7.2 and below over several days with smaller amounts of chemicals.<br>
-7. Alias binding for you datapoints. Just enter sensors and fire up the script.
+7. Alias binding for your datapoints. Just enter sensors and fire up the script.
 <br>
 <br>
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 13 29 52" src="https://github.com/user-attachments/assets/75340805-8403-42bd-9166-e9bcaf7bc2af" />
