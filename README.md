@@ -18,8 +18,9 @@ My dosing script is working for almost 2 years, almost without any failure. <br>
 Download rtf file open it with texteditor or smililar. Import text in Blocklyeditor<br>
 
 <h3>Key features:</h3>
+:white_check_mark: A long-term test is done for script logic<br>
 :white_check_mark: The run time of pump operation is self-calculating.<br>
-:white_check_mark: PH has priority over chlorine.<br>
+:white_check_mark: pH has priority over chlorine.<br>
 :white_check_mark: You can use any pump system you want. We only need a switch for on/off.<br>
 :white_check_mark: Weather influences are automatically corrected.<br>
 :white_check_mark: Runtime will be corrected, if your chlorine becomes more and more inefficient.<br>
@@ -43,7 +44,7 @@ Check wiki page for further explanation https://github.com/FlexerJR/Automatische
 <br>
 This comprehensive setup ensures your pool maintenance is automated, efficient and adaptable to different pool sizes and conditions.
 
-Here you can see the control of PH value
+Here you can see the control of pH value
 <br>
 <br>
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 11 17 22" src="https://github.com/user-attachments/assets/8473c399-2f72-4d61-acdc-ae8c564107d8" />
@@ -54,21 +55,19 @@ Here you can see Redox value
 <img width="570" alt="Bildschirmfoto 2025-07-02 um 11 18 41" src="https://github.com/user-attachments/assets/614d3ad7-4499-4a48-b809-245e74a0b342" />
 
 
-:white_check_mark: A long-term test is done for script logic
-
 Since I use a solar system for this pool, I installed a D50 PVC fixed piping system. It's important to know this as the dosing system works best with it.
 
 > [!WARNING]
 >**Please note: 
->You always act at your own risk. Minor electrical work is required, and safe handling of chemicals is essential for safe operation. Please do not put yourself in danger, and consult a >professional if unsure. You act at your own risk. Furthermore, I emphasize that I am not a professional and have acquired the necessary expertise on my own.
+>You always act at your own risk. Minor electrical work is required, and safe handling of chemicals is essential for safe operation. Please do not put yourself in danger, and consult a >professional if unsure. You act at your own risk. Furthermore, I empHasize that I am not a professional and have acquired the necessary expertise on my own.
 >I do not accept any liability or warranty for your actions in any form.**
 
 <h3>Step 1: Automatically measure pH and Redox values.</h3>
 
 For beginners:<br>
-In general, you can use any sensor that gives you the PH value or the redox. In the beginning, I used Iopool.
+In general, you can use any sensor that gives you the pH value or the redox. In the beginning, I used Iopool.
 Iopool is a brilliant sensor that takes the hassle out of measuring pH levels. You can view live data from the pool, and for newcomers to pool maintenance, it's a real game-changer. Simple and very accurate. A parallel measurement with Poollab 2.0 showed an confirmed 95% accuracy.
-Make sure you can measure your PH value automatically. It's the most expensive part of your system, but crucial for integrating the data into your smart home. There are also other methods to measure PH. 
+Make sure you can measure your pH value automatically. It's the most expensive part of your system, but crucial for integrating the data into your smart home. There are also other methods to measure pH. 
 
 In the picture below you can see my current way to measure the values. Communication is via mqtt every 5 seconds. You can find it on amazon. Important to know that you need additional probes. You can order them via aliexpress or amazon. Approx. 8€-35€
 
@@ -86,11 +85,11 @@ The injection site has 3 openings for so-called injection valves. You can find t
 No separate control unit is needed for this WiFi-operated dosing system. The calculations and operation times for dosing are managed through the smart home. ioBroker is the tool of choice here. If you're not familiar with ioBroker, check YouTube to learn the basics. If you already have ioBroker up and running, congratulations. Just import the script and adjust it to your data points and preferences. Further instructions are in the comment boxes of the script.
 
 Attention: I am currently working intensively on the script. Please read the updates.
-Here is the logic of Script V4.0 alpha
+Here is the logic of Script V4.0 alpHa
  
 <h3>pH Value</h3><br>
 
-In the upper part of the video you can see release of PH-.<br>
+In the upper part of the video you can see release of pH-.<br>
 
 https://github.com/user-attachments/assets/e2681d96-8c47-4640-99c9-1a5f30d189ee
 
