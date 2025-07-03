@@ -46,8 +46,8 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 
 > [!WARNING]
 >**Please note: 
->You always act at your own risk. Minor electrical work is required, and safe handling of chemicals is essential for safe operation. Please do not put yourself in danger, and consult a >professional if unsure. You act at your own risk. Furthermore, I empHasize that I am not a professional and have acquired the necessary expertise on my own.
->I do not accept any liability or warranty for your actions in any form.**
+>You always act at your own risk. Minor electrical work is required, and safe handling of chemicals is essential for safe operation. Please do not put yourself in danger, and consult a professional if unsure. You act at your own risk. Furthermore, I emphasize that I am not a professional and have acquired the necessary expertise on my own.
+I do not accept any liability or warranty for your actions in any form.**
 >
 
 Check wiki page for further explanation https://github.com/FlexerJR/Automatische-Dosieranlage/wiki/List-of-Datapoints <br><br>
@@ -112,7 +112,7 @@ https://github.com/user-attachments/assets/a9bfb397-abb6-4b71-b898-89e757398501
 <br>
 <br>
  ***BOM*** <br>
-For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! List not completed.
+For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. It is only one example how to setup a pipesystem. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! List not completed.
 
 | Amount  | Typ | Link  |
 | ------------- | ------------- | ------------- |
