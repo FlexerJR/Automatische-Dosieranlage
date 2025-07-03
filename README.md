@@ -111,6 +111,13 @@ https://github.com/user-attachments/assets/a9bfb397-abb6-4b71-b898-89e757398501
 
 <br>
 <br>
+Feel free to contact me
+<br><br>
+<img width="300" alt="Bildschirmfoto 2025-07-02 um 11 52 58" src="https://github.com/user-attachments/assets/2709624f-8e4c-436c-8098-ca5dfe410f84" />
+
+<br>
+<br>
+
  ***BOM*** <br>
 For further details on the BOM (Bill of Materials) and the associated links you need, please check this page in future. There, you will find information about the required materials, such as electrode holders, injection sites, pumps, hoses, and electronic components, along with direct links to their purchase pages. It is only one example how to setup a pipesystem. If you have specific questions about individual parts of the BOM or need help locating certain information, let me know! List not completed.
 
