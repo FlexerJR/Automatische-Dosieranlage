@@ -73,7 +73,7 @@ Here you can see Redox value
 
 <h3>Step 1: Automatically measure pH and Redox values.</h3>
 
-For beginners:<br>
+First things first<br>
 Since I use a solar system for this pool, I installed a D50 PVC fixed piping system. It's important to know this as the dosing system works best with it.
 In general, you can use any sensor that gives you the pH value or the redox. In the beginning, I used Iopool.
 Iopool is a brilliant sensor that takes the hassle out of measuring pH levels. You can view live data from the pool, and for newcomers to pool maintenance, it's a real game-changer. Simple and very accurate. A parallel measurement with Poollab 2.0 showed an confirmed 95% accuracy.
