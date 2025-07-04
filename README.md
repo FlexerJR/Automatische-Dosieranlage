@@ -38,7 +38,7 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :wrench:All sensors and switches must be controllable via iobroker<br>
 
 <h3>Outlook of future version:</h3>
-:rotating_light: Smooth release of chlorine to give constant redox level:rotating_light:<br>
+:rotating_light: Smooth release of chlorine to give constant redox level:rotating_light. Hell, thats hot!:<br>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
 :smiley: Long term warning if your chemicals become ineffective.<br>
 :smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
