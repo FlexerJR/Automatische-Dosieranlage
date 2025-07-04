@@ -37,7 +37,9 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :wrench:Switch for redox pump<br>
 :wrench:All sensors and switches must be controllable via iobroker<br>
 
-<h3>Outlook of future version:</h3>
+<h3>Outlook of future version:</h3><br>
+:rotating_light: v4.1 will have new mechanism for chlorine. Stress test pending:rotating_light:<br>
+:rotating_light: Self- calibration took only 20 minutes to fix redox 700:rotating_light:<br>
 :rotating_light: Smooth release of chlorine to give constant redox level. Hell, thats hot!:rotating_light:<br>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
 :smiley: Long term warning if your chemicals become ineffective.<br>
