@@ -45,7 +45,13 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :smiley: Long term warning if your chemicals become ineffective.<br>
 :smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
 <br>
+<H4>Here one screenshot of V4.1 (coming soon)</H4>
 <br>
+<br>
+<img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/d04955dd-acbd-423c-9f0e-a615c5d49415" />
+<br>
+<br>
+
 
 > [!WARNING]
 >**Please note: 
