@@ -38,14 +38,14 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :wrench:All sensors and switches must be controllable via iobroker<br>
 
 <h3>Outlook of future version:</h3><br>
-:rotating_light: v4.1 will have new mechanism for chlorine. Stress test pending. Few days for release:rotating_light:<br>
+:rotating_light: V4.1. will have new mechanism for chlorine. Stress test pending. Few days for release:rotating_light:<br>
 :rotating_light: Self- calibration took only 20 minutes to fix redox 700:rotating_light:<br>
 :rotating_light: Smooth release of chlorine to give constant redox level. Hell, thats hot!:rotating_light:<br>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
 :smiley: Long term warning if your chemicals become ineffective.<br>
 :smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
 <br>
-<H4>Here one screenshot of V4.1 (coming soon)</H4>
+<H4>Here one screenshot of V4.1. (coming soon)</H4>
 <br>
 <br>
 <img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/d04955dd-acbd-423c-9f0e-a615c5d49415" />
