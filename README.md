@@ -8,12 +8,12 @@
 <br>
 
 :rotating_light:Official script can be found here on GITHUB only. Other sources are outdated.:rotating_light:<br><br>
-:rotating_light:Due to the high number of request via telegram i decided to create a FAQ for you questions.:rotating_light:<br><br> 
+:rotating_light:Due to the high number of request via telegram i decided to create a FAQ for your questions.:rotating_light:<br><br> 
 
 Please check this page for further updates. I'm sorry but it will take some time.<br>
-Furthermore there are many setups of different pools out there. You should prepare you setup by your self.<br>
-I can give you some recommendations for the best course of action.<br>
-If you have any questions feel free to contact me. I can provide a checklist for hardeware installation.<br><br>
+Furthermore there are many setups of different pools out there. You should prepare your setup by yourself.<br>
+It can give you some recommendations for the best course of action.<br>
+If you have any questions feel free to contact me. I can provide a checklist for hardware installation.<br><br>
 
 This dosing system is a DIY project that I designed for my pool. It is intended for a Bestway Steel Pro Max 427x122 with a volume of 15 cubic meters. I can be used for any other pool with a pipesystem. 
 
