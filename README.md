@@ -172,7 +172,7 @@ For further details on the BOM (Bill of Materials) and the associated links you 
 |1|Elektrodenhalter|[ PVC Welt  ](https://www.pvc-welt.de/PVC-U-Elektrodenhalter-HTC-transparent-2fach-2-3-Verschraubung)|
 |1-3|Alternative Impfstelle|[ PVC Welt  ](https://www.pvc-welt.de/Elektrodenhalter-Impf-Dosieranschluss-auf-Anbohrschelle_2)|
 | 1-3 |Fafeicy G528 DC12V Mini|[ Amazon  ](https://www.amazon.de/dp/B08FR9N3PQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
-|1-3|Sehr gute Pumpe|[ Amazon  ](https://www.amazon.de/dp/B06ZZDLTJ7?ref=ppx_yo2ov_dt_b_fed_asin_title)|
+|1-3|Very good pump|[ Amazon  ](https://www.amazon.de/dp/B06ZZDLTJ7?ref=ppx_yo2ov_dt_b_fed_asin_title)|
 | 1-3 |Reduzierstück 3/8 auf 1/2|Missing Link|
 | 1-3 |Sonoff 4ch Pro|[ Amazon  ](https://www.amazon.de/sonoff-4ch-pro/s?k=sonoff+4ch+pro)|
 |3|Gewindestopfen|[ Amazon  ](https://www.amazon.de/dp/B00512O0WQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)|
