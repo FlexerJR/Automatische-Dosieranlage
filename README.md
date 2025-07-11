@@ -12,7 +12,7 @@
 
 Please check this page for further updates. I'm sorry but it will take some time.<br>
 Furthermore there are many setups of different pools out there. You should prepare you setup by your self.<br>
-I can give you some recommendations for the best course of action<br>
+I can give you some recommendations for the best course of action.<br>
 If you have any questions feel free to contact me. I can provide a checklist for hardeware installation.<br><br>
 
 This dosing system is a DIY project that I designed for my pool. It is intended for a Bestway Steel Pro Max 427x122 with a volume of 15 cubic meters. I can be used for any other pool with a pipesystem. 
