@@ -12,7 +12,7 @@
 
 Please check this page for further updates. I'm sorry but it will take some time.<br>
 Furthermore there are many setups of different pools out there. You should prepare your setup by yourself.<br>
-It can give you some recommendations for the best course of action.<br>
+I can give you some recommendations for the best course of action.<br>
 If you have any questions feel free to contact me. I can provide a checklist for hardware installation.<br><br>
 :bulb:Saltwater:bulb:<br>
 I don't have a saltwater pool myself, so the script isn't optimized for saltwater yet. If you want to use it with your saltwater pool, just reach out and we can work on a version together. Volunteers welcome!<br><br>
