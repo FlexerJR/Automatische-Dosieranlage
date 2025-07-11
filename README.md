@@ -41,11 +41,13 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 <br>
 
 <h3>Outlook of future version:</h3><br>
-:smiley: Automatic shock chlorination mode. Can be configured based on time intervals or specific date and time.<br>
+:smiley: Automatic shock chlorination mode. Can be configured based on time intervals or specific date and time<br>
 :smiley: After calibration of your ph/orp sensors the script will pause operation for one hour<br>
+:smiley: If your pump isn't operation 24/7, script will ignore redox value if poolpump is off<br>
+:smiley: Script will operate only if poolpump is working again. Check future F.A.Q.<br>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
-:smiley: Long term warning if your chemicals become ineffective.<br>
-:smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
+:smiley: Long term warning if your chemicals become ineffective<br>
+:smiley: Auto recalibration if autocalibration doesn't match anymore<br>
 <br>
 
 <h3>Hardware needed</h3>
