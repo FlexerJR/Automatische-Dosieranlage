@@ -35,6 +35,7 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 <br>
 
 <h3>Outlook of future version:</h3><br>
+:smiley: Automatic shock chlorination mode. Can be configured based on time intervals or specific date and time.<br>
 :smiley: After calibration of your ph/orp sensors the script will pause operation for one hour<br>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
 :smiley: Long term warning if your chemicals become ineffective.<br>
