@@ -52,11 +52,16 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 Changes 4.1.0 alpha: <br>
 -Integrated new logic of pump operation for chlorine.<br>
 -Minor Bug fixes of datapoints. <br>
-
+-----------------------------------------------------------------------
 <br>
 Todo 4.1.1 <br>
 -Some datapoints are unnecessary for new logic and have to be deleted. <br>
 -Rebuild of error and warning messages<br>
+
+Wiki page<br>
+-Update of due to new logic<br>
+-Further explanation of script and datapoints
+<br>
 
 <H4>Here one screenshot of V4.1. (released)</H4>
 <br>
