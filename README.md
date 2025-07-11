@@ -30,12 +30,6 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :white_check_mark: The goal is to gradually reduce the pH to 7.2 (adjustable) and below over several days with smaller amounts of chemicals.<br>
 :white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.<br>
 <br>
-<h3>Hardware needed</h3>
-:wrench:Sensor for pH and redox<br>
-:wrench:Switch for pool pump<br>
-:wrench:Switch for pH pump<br>
-:wrench:Switch for redox pump<br>
-:wrench:All sensors and switches must be controllable via iobroker<br>
 
 <h3>Outlook of future version:</h3><br>
 :rotating_light: V4.1. will have new mechanism for chlorine. Stress test pending. Few days for release:rotating_light:<br>
@@ -45,7 +39,26 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :smiley: Long term warning if your chemicals become ineffective.<br>
 :smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
 <br>
-<H4>Here one screenshot of V4.1. (coming soon)</H4>
+
+<h3>Hardware needed</h3>
+:wrench:Sensor for pH and redox<br>
+:wrench:Switch for pool pump<br>
+:wrench:Switch for pH pump<br>
+:wrench:Switch for redox pump<br>
+:wrench:All sensors and switches must be controllable via iobroker<br>
+
+<br>
+<h3>:white_check_mark:Changelog & Todo 11.07.2025</h3>
+Changes 4.1.0 alpha: <br>
+-Integrated new logic of pump operation for chlorine.<br>
+-Minor Bug fixes of datapoints. <br>
+
+<br>
+Todo 4.1.1 <br>
+-Some datapoints are unnecessary for new logic and have to be deleted. <br>
+-Rebuild of error and warning messages<br>
+
+<H4>Here one screenshot of V4.1. (released)</H4>
 <br>
 <img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/d04955dd-acbd-423c-9f0e-a615c5d49415" />
 <br>
@@ -166,4 +179,11 @@ Bracket for wago https://makerworld.com/de/models/192672-wago-221-modular-mount-
 
 I appreciate your likes and comments.
 
-Best regards
+Best regards<br>
+
+
+
+
+
+
+
