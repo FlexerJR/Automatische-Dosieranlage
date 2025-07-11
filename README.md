@@ -18,6 +18,9 @@ My dosing script is working for almost 2 years, almost without any failure. <br>
 Download rtf file open it with texteditor or smililar. Import text in Blocklyeditor<br>
 
 <h3>Key features:</h3>
+
+:white_check_mark: V4.1. has new mechanism for chlorine.<br>
+:white_check_mark: Smooth release of chlorine to give constant redox level. Hell, thats hot!<br>
 :white_check_mark: A long-term test is done for script logic<br>
 :white_check_mark: The run time of pump operation is self-calculating.<br>
 :white_check_mark: pH has priority over chlorine.<br>
@@ -32,9 +35,6 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 <br>
 
 <h3>Outlook of future version:</h3><br>
-:rotating_light: V4.1. will have new mechanism for chlorine. Stress test pending. Few days for release:rotating_light:<br>
-:rotating_light: Self- calibration took only 20 minutes to fix redox 700:rotating_light:<br>
-:rotating_light: Smooth release of chlorine to give constant redox level. Hell, thats hot!:rotating_light:<br>
 :smiley: Enhanced autocalibration mode for chlorine runtime in different situations.<br>
 :smiley: Long term warning if your chemicals become ineffective.<br>
 :smiley: Auto recalibration if autocalibration doesn't match anymore.<br>
@@ -52,14 +52,14 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 Changes 4.1.0 alpha: <br>
 -Integrated new logic of pump operation for chlorine.<br>
 -Minor Bug fixes of datapoints. <br>
------------------------------------------------------------------------
+---------------------------------------------------
 <br>
 Todo 4.1.1 <br>
 -Some datapoints are unnecessary for new logic and have to be deleted. <br>
 -Rebuild of error and warning messages<br>
 
 Wiki page<br>
--Update of due to new logic<br>
+-Update due to new logic<br>
 -Further explanation of script and datapoints
 <br>
 
