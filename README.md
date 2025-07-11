@@ -67,8 +67,10 @@ Todo 4.1.1 <br>
 -Rebuild of error and warning messages<br>
 
 Wiki page<br>
--Update due to new logic<br>
--Further explanation of script and datapoints
+-Recommendations for hardware installation<br>
+-F.A.Q., Documentation for script, and so on
+-Update wiki due to new logic<br>
+-Further explanation datapoints
 <br>
 
 <H4>Here one screenshot of V4.1. (released)</H4>
