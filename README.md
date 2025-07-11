@@ -29,7 +29,7 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :white_check_mark: Runtime will be corrected, if your chlorine becomes more and more inefficient.<br>
 :white_check_mark: You can add water to your pool at any time without worrying about the pH value.<br>
 :white_check_mark: When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
-:white_check_mark: There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
+:white_check_mark: (Coming soon) There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 :white_check_mark: The goal is to gradually reduce the pH to 7.2 (adjustable) and below over several days with smaller amounts of chemicals.<br>
 :white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.<br>
 <br>
