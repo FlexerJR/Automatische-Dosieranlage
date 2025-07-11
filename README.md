@@ -14,7 +14,7 @@ This dosing system is a DIY project that I designed for my pool. It is intended 
 The entire project is subject to changes or updates to bring it up to the latest standard.
 The system construction takes about 48 hours, depending on craftsmanship skills.
 
-My dosing script is working for almost 2 years, almost without any failure. <br>
+My dosing script is working for almost 2 years, without any failure. <br>
 Download rtf file open it with texteditor or smililar. Import text in Blocklyeditor<br>
 
 <h3>Key features:</h3>
