@@ -188,7 +188,7 @@ I appreciate your likes and comments.
 Best regards<br><br>
 
 
-<h3>:white_check_mark:Changelog & Todo 11.07.2025</h3>
+<h3>:white_check_mark:Changelog & Todo 13.07.2025</h3>
 
 Wiki page<br>
 -Recommendations for hardware installation<br>
