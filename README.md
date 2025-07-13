@@ -187,10 +187,8 @@ I appreciate your likes and comments.
 
 Best regards<br><br>
 
-<br>
-Todo 4.1.1 <br>
--Some datapoints are unnecessary for new logic and have to be deleted. <br>
--Rebuild of error and warning messages<br>
+
+<h3>:white_check_mark:Changelog & Todo 11.07.2025</h3>
 
 Wiki page<br>
 -Recommendations for hardware installation<br>
@@ -199,7 +197,12 @@ Wiki page<br>
 -Further explanation datapoints
 <br>
 
-<h3>:white_check_mark:Changelog & Todo 11.07.2025</h3>
+<br>
+Todo 4.1.2 <br>
+-Some datapoints are unnecessary for new logic and have to be deleted. <br>
+-Rebuild of error and warning messages<br><br>
+
+
 Changes 4.1.1 alpha: <br>
 -Minor bug fixes<br>
 -Abgabeintervall_Minuten deactivated for debugging<br><br>
