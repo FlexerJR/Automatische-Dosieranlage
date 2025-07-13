@@ -192,20 +192,25 @@ Best regards<br><br>
 
 Wiki page<br>
 -Recommendations for hardware installation<br>
--F.A.Q., Documentation for script, and so on
+-F.A.Q., Documentation for script, and so on<br>
 -Update wiki due to new logic<br>
 -Further explanation datapoints
 <br>
-
 <br>
-Todo 4.1.2 <br>
--Some datapoints are unnecessary for new logic and have to be deleted. <br>
+
+Todo 4.1.4 <br>
+-Automatic shock chlorination mode<br><br>
+
+Todo 4.1.3 <br>
 -Rebuild of error and warning messages<br><br>
 
+Todo 4.1.2 <br>
+-Some datapoints are unnecessary for new logic and have to be deleted. <br><br>
 
 Changes 4.1.1 alpha: <br>
 -Minor bug fixes<br>
--Abgabeintervall_Minuten deactivated for debugging<br><br>
+-Abgabeintervall_Minuten deactivated for debugging<br>
+-Introduced Debugmode. You can ignore it. Default value is false<br><br>
 
 Changes 4.1.0 alpha: <br>
 -Integrated new logic of pump operation for chlorine.<br>
