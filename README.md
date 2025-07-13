@@ -62,6 +62,9 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 
 <br>
 <h3>:white_check_mark:Changelog & Todo 11.07.2025</h3>
+Changes 4.1.1 alpha: <br>
+-Minor bug fixes<br>
+-Abgabeintervall_Minuten deactivated for debugging<br>
 Changes 4.1.0 alpha: <br>
 -Integrated new logic of pump operation for chlorine.<br>
 -Minor Bug fixes of datapoints. <br>
