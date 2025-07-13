@@ -61,22 +61,7 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :wrench:All sensors and switches must be controllable via iobroker<br>
 
 <br>
-<h3>:white_check_mark:Changelog & Todo 11.07.2025</h3>
-Changes 4.1.0 alpha: <br>
--Integrated new logic of pump operation for chlorine.<br>
--Minor Bug fixes of datapoints. <br>
----------------------------------------------------
-<br>
-Todo 4.1.1 <br>
--Some datapoints are unnecessary for new logic and have to be deleted. <br>
--Rebuild of error and warning messages<br>
 
-Wiki page<br>
--Recommendations for hardware installation<br>
--F.A.Q., Documentation for script, and so on
--Update wiki due to new logic<br>
--Further explanation datapoints
-<br>
 
 <H4>Here one screenshot of V4.1. (released)</H4>
 <br>
@@ -200,9 +185,32 @@ Bracket for wago https://makerworld.com/de/models/192672-wago-221-modular-mount-
 
 I appreciate your likes and comments.
 
-Best regards<br>
+Best regards<br><br>
 
 
+<h3>:white_check_mark:Changelog & Todo 11.07.2025</h3>
+
+Wiki page<br>
+-Recommendations for hardware installation<br>
+-F.A.Q., Documentation for script, and so on
+-Update wiki due to new logic<br>
+-Further explanation datapoints
+<br>
+
+<br>
+Todo 4.1.2 <br>
+-Some datapoints are unnecessary for new logic and have to be deleted. <br>
+-Rebuild of error and warning messages<br><br>
+
+
+Changes 4.1.1 alpha: <br>
+-Minor bug fixes<br>
+-Abgabeintervall_Minuten deactivated for debugging<br><br>
+
+Changes 4.1.0 alpha: <br>
+-Integrated new logic of pump operation for chlorine.<br>
+-Minor Bug fixes of datapoints. <br>
+--------------------------------------------------- <br><br>
 
 
 
