@@ -198,14 +198,19 @@ Wiki page<br>
 <br>
 <br>
 
-Todo 4.1.4 <br>
+Todo 4.1.5 <br>
 -Automatic shock chlorination mode<br><br>
 
-Todo 4.1.3 <br>
+Todo 4.1.4 <br>
 -Rebuild of error and warning messages<br><br>
 
-Todo 4.1.2 <br>
+Todo 4.1.3 <br>
 -Some datapoints are unnecessary for new logic and have to be deleted. <br><br>
+
+Changes 4.1.2 alpha: <br>
+-Minor bug fixes<br>
+-Rebuild of variables<br>
+<br><br>
 
 Changes 4.1.1 alpha: <br>
 -Minor bug fixes<br>
