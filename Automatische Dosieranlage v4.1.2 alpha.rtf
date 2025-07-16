@@ -284,6 +284,59 @@
       </block>\
     </statement>\
   </block>\
+  <block type="comment" id="gR9X5S!8;Gfs6;No?aU#" x="338" y="1413">\
+    <field name="COMMENT">Global settings. Do not touch</field>\
+  </block>\
+  <block type="procedures_defcustomnoreturn" id="_B/]c=(T2e9N3^jH0nPn" x="338" y="1463">\
+    <mutation statements="false">\
+      <arg name="id" varid="CU^$YFVUDfE,-rDm,2VY"></arg>\
+      <arg name="beschreibung" varid="V2#$1\{V2_KCb1RDGU6Am"></arg>\
+      <arg name="typ" varid=")!]ai_m3NDT29u+_COFL"></arg>\
+      <arg name="wert" varid="vC;$WkG%h~=%#na8F\{Nt"></arg>\
+    </mutation>\
+    <field name="NAME">Datenpunkte erstellen</field>\
+    <field name="SCRIPT">Y3JlYXRlU3RhdGUoaWQsIHdlcnQsIHsibmFtZSI6IGJlc2NocmVpYnVuZywgInR5cGUiOiB0eXB9KTs=</field>\
+    <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
+  </block>\
+  <block type="procedures_defnoreturn" id="l.,#W?]y-tB^?Ied\{uBV" x="338" y="1488">\
+    <field name="NAME">Sending_Telegram_Message</field>\
+    <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
+    <statement name="STACK">\
+      <block type="timeouts_cleartimeout" id="(]9Do=Z@8*wXa(sj8O~Q">\
+        <field name="NAME">Sending_Telegram</field>\
+        <next>\
+          <block type="timeouts_settimeout" id="tV?IP#WAQHR^IfEFVANF">\
+            <field name="NAME">Sending_Telegram</field>\
+            <field name="DELAY">1000</field>\
+            <field name="UNIT">ms</field>\
+            <statement name="STATEMENT">\
+              <block type="telegram" id="ouo/tE:T_U(vEL%qHPak">\
+                <field name="INSTANCE">.0</field>\
+                <field name="LOG"></field>\
+                <field name="SILENT">FALSE</field>\
+                <field name="PARSEMODE">default</field>\
+                <field name="ESCAPING">FALSE</field>\
+                <field name="DISABLE_WEB_PAGE_PREVIEW">FALSE</field>\
+                <value name="MESSAGE">\
+                  <shadow type="text" id="70OE1vg9f\{;z=]@hakqU">\
+                    <field name="TEXT">text</field>\
+                  </shadow>\
+                  <block type="variables_get" id="7.;zKdD-`P!vwn].R/|2">\
+                    <field name="VAR" id="5A3.K*)CTu7#tIiAw_\}Z">Telegram_Nachricht</field>\
+                  </block>\
+                </value>\
+                <value name="USERNAME">\
+                  <block type="variables_get" id="Bw#GMP[rt(Y:%k?iUrkJ">\
+                    <field name="VAR" id="lN|W%AN[M_^BHsZ?F*xc">Telegram_User</field>\
+                  </block>\
+                </value>\
+              </block>\
+            </statement>\
+          </block>\
+        </next>\
+      </block>\
+    </statement>\
+  </block>\
   <block type="procedures_defnoreturn" id="#7_;o!N%sOIE#4V33?2?" collapsed="true" x="1288" y="1463">\
     <field name="NAME">Debugmode</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
@@ -392,9 +445,6 @@
         </statement>\
       </block>\
     </statement>\
-  </block>\
-  <block type="comment" id="gR9X5S!8;Gfs6;No?aU#" x="338" y="1537">\
-    <field name="COMMENT">Global settings. Do not touch</field>\
   </block>\
   <block type="procedures_defnoreturn" id="X:bdHBZo6nQH$KJg(vX3" collapsed="true" x="1288" y="1488">\
     <field name="NAME">Laufzeit_Chlor_kalibrieren</field>\
@@ -917,17 +967,6 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defcustomnoreturn" id="_B/]c=(T2e9N3^jH0nPn" x="337" y="1587">\
-    <mutation statements="false">\
-      <arg name="id" varid="CU^$YFVUDfE,-rDm,2VY"></arg>\
-      <arg name="beschreibung" varid="V2#$1\{V2_KCb1RDGU6Am"></arg>\
-      <arg name="typ" varid=")!]ai_m3NDT29u+_COFL"></arg>\
-      <arg name="wert" varid="vC;$WkG%h~=%#na8F\{Nt"></arg>\
-    </mutation>\
-    <field name="NAME">Datenpunkte erstellen</field>\
-    <field name="SCRIPT">Y3JlYXRlU3RhdGUoaWQsIHdlcnQsIHsibmFtZSI6IGJlc2NocmVpYnVuZywgInR5cGUiOiB0eXB9KTs=</field>\
-    <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
-  </block>\
   <block type="procedures_defnoreturn" id="J]gz3w`F7gQq|!H$Gyky" collapsed="true" x="1288" y="1538">\
     <field name="NAME">Berechnung_Laufzeit_PH_Minus</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
@@ -1270,7 +1309,7 @@
                                     </value>\
                                     <value name="B">\
                                       <block type="math_number" id=")Yz3DMz;W$i.0\}Mky8_P">\
-                                        <field name="NUM">0.2</field>\
+                                        <field name="NUM">0.15</field>\
                                       </block>\
                                     </value>\
                                   </block>\
@@ -2061,102 +2100,6 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="5/C@wdfWcD()lQacnUq1" x="338" y="1613">\
-    <field name="NAME">Scriptstart</field>\
-    <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
-    <statement name="STACK">\
-      <block type="comment" id="fpR89e\{eun+cWJrA#0.e">\
-        <field name="COMMENT">Diese Funktion legt die Datenpunkte an.&amp;#10;Kann von dir ignoriert werden.</field>\
-        <next>\
-          <block type="controls_if" id="Qb/ZVc(#M4[Xi1n[eDC#">\
-            <value name="IF0">\
-              <block type="logic_compare" id="g-`5sJXION(1wciI:o%r">\
-                <field name="OP">EQ</field>\
-                <value name="A">\
-                  <block type="variables_get" id="!(|5,tLS2%IFN-]-VU*g">\
-                    <field name="VAR" id="atlG=i5Zh2g!I:kv$KiE">Scriptstart</field>\
-                  </block>\
-                </value>\
-                <value name="B">\
-                  <block type="logic_boolean" id="F^xKnb/=A-NQ~nh|G7][">\
-                    <field name="BOOL">TRUE</field>\
-                  </block>\
-                </value>\
-              </block>\
-            </value>\
-            <statement name="DO0">\
-              <block type="procedures_callnoreturn" id="9@L~#LM)[O)%zsm(xfRX">\
-                <mutation name="Variablen_definieren"></mutation>\
-                <next>\
-                  <block type="timeouts_settimeout" id="tq.GVjDLo\{glXm(%o]on">\
-                    <field name="NAME">timeout7</field>\
-                    <field name="DELAY">1000</field>\
-                    <field name="UNIT">ms</field>\
-                    <statement name="STATEMENT">\
-                      <block type="procedures_callnoreturn" id="BhO[KBCdxlK8adY3!mf(">\
-                        <mutation name="Datenpunkte anlegen"></mutation>\
-                        <next>\
-                          <block type="timeouts_settimeout" id="7Qtm\{~\}AIn6asML\{mH);">\
-                            <field name="NAME">timeout</field>\
-                            <field name="DELAY">1000</field>\
-                            <field name="UNIT">ms</field>\
-                            <statement name="STATEMENT">\
-                              <block type="procedures_callnoreturn" id="-c,#qoYJ$9@-.,w|P9A`">\
-                                <mutation name="Variablen_setzen"></mutation>\
-                              </block>\
-                            </statement>\
-                          </block>\
-                        </next>\
-                      </block>\
-                    </statement>\
-                  </block>\
-                </next>\
-              </block>\
-            </statement>\
-          </block>\
-        </next>\
-      </block>\
-    </statement>\
-  </block>\
-  <block type="procedures_defnoreturn" id="l.,#W?]y-tB^?Ied\{uBV" collapsed="true" x="1288" y="1588">\
-    <field name="NAME">Sending_Telegram_Message</field>\
-    <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
-    <statement name="STACK">\
-      <block type="timeouts_cleartimeout" id="(]9Do=Z@8*wXa(sj8O~Q">\
-        <field name="NAME">Sending_Telegram</field>\
-        <next>\
-          <block type="timeouts_settimeout" id="tV?IP#WAQHR^IfEFVANF">\
-            <field name="NAME">Sending_Telegram</field>\
-            <field name="DELAY">1000</field>\
-            <field name="UNIT">ms</field>\
-            <statement name="STATEMENT">\
-              <block type="telegram" id="ouo/tE:T_U(vEL%qHPak">\
-                <field name="INSTANCE">.2</field>\
-                <field name="LOG"></field>\
-                <field name="SILENT">FALSE</field>\
-                <field name="PARSEMODE">default</field>\
-                <field name="ESCAPING">FALSE</field>\
-                <field name="DISABLE_WEB_PAGE_PREVIEW">FALSE</field>\
-                <value name="MESSAGE">\
-                  <shadow type="text" id="70OE1vg9f\{;z=]@hakqU">\
-                    <field name="TEXT">text</field>\
-                  </shadow>\
-                  <block type="variables_get" id="7.;zKdD-`P!vwn].R/|2">\
-                    <field name="VAR" id="5A3.K*)CTu7#tIiAw_\}Z">Telegram_Nachricht</field>\
-                  </block>\
-                </value>\
-                <value name="USERNAME">\
-                  <block type="variables_get" id="Bw#GMP[rt(Y:%k?iUrkJ">\
-                    <field name="VAR" id="lN|W%AN[M_^BHsZ?F*xc">Telegram_User</field>\
-                  </block>\
-                </value>\
-              </block>\
-            </statement>\
-          </block>\
-        </next>\
-      </block>\
-    </statement>\
-  </block>\
   <block type="procedures_defnoreturn" id="f~I4Rrz/z!l7I)O6.mDd" collapsed="true" disabled-reasons="MANUALLY_DISABLED" x="1288" y="1613">\
     <field name="NAME">Check_Leitung_Chlor</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
@@ -2488,6 +2431,63 @@
                     </next>\
                   </block>\
                 </statement>\
+              </block>\
+            </statement>\
+          </block>\
+        </next>\
+      </block>\
+    </statement>\
+  </block>\
+  <block type="procedures_defnoreturn" id="5/C@wdfWcD()lQacnUq1" collapsed="true" x="338" y="1913">\
+    <field name="NAME">Scriptstart</field>\
+    <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
+    <statement name="STACK">\
+      <block type="comment" id="fpR89e\{eun+cWJrA#0.e">\
+        <field name="COMMENT">Diese Funktion legt die Datenpunkte an.&amp;#10;Kann von dir ignoriert werden.</field>\
+        <next>\
+          <block type="controls_if" id="Qb/ZVc(#M4[Xi1n[eDC#">\
+            <value name="IF0">\
+              <block type="logic_compare" id="g-`5sJXION(1wciI:o%r">\
+                <field name="OP">EQ</field>\
+                <value name="A">\
+                  <block type="variables_get" id="!(|5,tLS2%IFN-]-VU*g">\
+                    <field name="VAR" id="atlG=i5Zh2g!I:kv$KiE">Scriptstart</field>\
+                  </block>\
+                </value>\
+                <value name="B">\
+                  <block type="logic_boolean" id="F^xKnb/=A-NQ~nh|G7][">\
+                    <field name="BOOL">TRUE</field>\
+                  </block>\
+                </value>\
+              </block>\
+            </value>\
+            <statement name="DO0">\
+              <block type="procedures_callnoreturn" id="9@L~#LM)[O)%zsm(xfRX">\
+                <mutation name="Variablen_definieren"></mutation>\
+                <next>\
+                  <block type="timeouts_settimeout" id="tq.GVjDLo\{glXm(%o]on">\
+                    <field name="NAME">timeout7</field>\
+                    <field name="DELAY">1000</field>\
+                    <field name="UNIT">ms</field>\
+                    <statement name="STATEMENT">\
+                      <block type="procedures_callnoreturn" id="BhO[KBCdxlK8adY3!mf(">\
+                        <mutation name="Datenpunkte anlegen"></mutation>\
+                        <next>\
+                          <block type="timeouts_settimeout" id="7Qtm\{~\}AIn6asML\{mH);">\
+                            <field name="NAME">timeout</field>\
+                            <field name="DELAY">1000</field>\
+                            <field name="UNIT">ms</field>\
+                            <statement name="STATEMENT">\
+                              <block type="procedures_callnoreturn" id="-c,#qoYJ$9@-.,w|P9A`">\
+                                <mutation name="Variablen_setzen"></mutation>\
+                              </block>\
+                            </statement>\
+                          </block>\
+                        </next>\
+                      </block>\
+                    </statement>\
+                  </block>\
+                </next>\
               </block>\
             </statement>\
           </block>\
@@ -3673,7 +3673,7 @@
                                                                                             <field name="VAR" id="atlG=i5Zh2g!I:kv$KiE">Scriptstart</field>\
                                                                                             <value name="VALUE">\
                                                                                               <block type="logic_boolean" id="Je*8U@7[V!WyAYn.P-:v">\
-                                                                                                <field name="BOOL">TRUE</field>\
+                                                                                                <field name="BOOL">FALSE</field>\
                                                                                               </block>\
                                                                                             </value>\
                                                                                             <next>\
