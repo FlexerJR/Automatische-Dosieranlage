@@ -7,7 +7,8 @@
 <br>
 <br>
 <h3>:rotating_light::rotating_light::rotating_light: WARNING!WARNING!WARNING! :rotating_light::rotating_light::rotating_light:</h3><br>
-There is currently a problem with importing Blockly scripts. I'm trying to find the cause. Please do not import the script.
+There is currently a problem with importing Blockly scripts. I'm trying to find the cause. Please do not import the script. <br>
+:scream: Will find a solution!
 
 <br>
 <br>
