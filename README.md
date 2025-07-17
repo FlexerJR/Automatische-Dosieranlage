@@ -192,7 +192,7 @@ I appreciate your likes and comments.
 Best regards<br><br>
 
 
-<h3>:white_check_mark:Changelog & Todo 13.07.2025</h3>
+<h3>:white_check_mark:Changelog & Todo 17.07.2025</h3>
 
 Wiki page<br>
 -Recommendations for hardware installation<br>
@@ -202,19 +202,17 @@ Wiki page<br>
 <br>
 <br>
 
-Todo 4.1.5 <br>
--Automatic shock chlorination mode<br><br>
-
-Todo 4.1.4 <br>
--Rebuild of error and warning messages<br><br>
-
-Todo 4.1.3 <br>
+Todo and upcoming feautures <br>
+-Automatic shock chlorination mode<br>
+-Rebuild of error and warning messages<br>
 -Some datapoints are unnecessary for new logic and have to be deleted. <br><br>
+
+Changes 4.1.3 alpha: <br>
+-Minor bug fixes of PH Minus calculation<br>
 
 Changes 4.1.2 alpha: <br>
 -Minor bug fixes<br>
 -Rebuild of variables<br>
-<br>
 
 Changes 4.1.1 alpha: <br>
 -Minor bug fixes<br>
