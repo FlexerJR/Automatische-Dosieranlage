@@ -19,9 +19,9 @@
     <variable type="timeout" id="timeout6">timeout6</variable>\
     <variable type="timeout" id="Sending_Telegram">Sending_Telegram</variable>\
     <variable id="0F0wv*iq=_uY+Vg-wMPy">PH_Minus_Laufzeit_alt</variable>\
+    <variable type="timeout" id="timeout19">timeout19</variable>\
     <variable type="timeout" id="Check_Redox">Check_Redox</variable>\
     <variable type="timeout" id="Check_Ph_Minus">Check_Ph_Minus</variable>\
-    <variable type="timeout" id="timeout19">timeout19</variable>\
     <variable id="hTNqIgl.b@SNZ1ODVUo8">Chlor_Laufzeit_ms</variable>\
     <variable id="`p9/Dxb^yd5u)V!L-tBi">Rekalibrierung_Laufzeit_Chlor_notwendig</variable>\
     <variable type="timeout" id="timeout10">timeout10</variable>\
@@ -55,11 +55,14 @@
     <variable type="timeout" id="timeout8">timeout8</variable>\
     <variable type="timeout" id="timeout9">timeout9</variable>\
   </variables>\
+  <block type="comment" id="gR9X5S!8;Gfs6;No?aU#" x="388" y="1988">\
+    <field name="COMMENT">Global settings. Do not touch</field>\
+  </block>\
   <block type="variables_set" id="`jT[NH`~?H,VE2gtVCEx" x="-287" y="2038">\
     <field name="VAR" id="z\}H|jdZ%CF0\{v!;hbg;|">scriptversion</field>\
     <value name="VALUE">\
       <block type="text" id="R,xgJ?^:!M/Qw(P!(90K">\
-        <field name="TEXT">4.1.3. alpha</field>\
+        <field name="TEXT">4.1.4. alpha</field>\
       </block>\
     </value>\
     <next>\
@@ -174,7 +177,7 @@
                                                                                             <field name="VAR" id="atlG=i5Zh2g!I:kv$KiE">Scriptstart</field>\
                                                                                             <value name="VALUE">\
                                                                                               <block type="logic_boolean" id="Je*8U@7[V!WyAYn.P-:v">\
-                                                                                                <field name="BOOL">FALSE</field>\
+                                                                                                <field name="BOOL">TRUE</field>\
                                                                                               </block>\
                                                                                             </value>\
                                                                                             <next>\
@@ -2986,10 +2989,7 @@
       </block>\
     </next>\
   </block>\
-  <block type="comment" id="gR9X5S!8;Gfs6;No?aU#" x="388" y="2038">\
-    <field name="COMMENT">Global settings. Do not touch</field>\
-  </block>\
-  <block type="procedures_defcustomnoreturn" id="_B/]c=(T2e9N3^jH0nPn" x="388" y="2088">\
+  <block type="procedures_defcustomnoreturn" id="_B/]c=(T2e9N3^jH0nPn" x="388" y="2038">\
     <mutation statements="false">\
       <arg name="id" varid="CU^$YFVUDfE,-rDm,2VY"></arg>\
       <arg name="beschreibung" varid="V2#$1\{V2_KCb1RDGU6Am"></arg>\
@@ -3000,7 +3000,7 @@
     <field name="SCRIPT">Y3JlYXRlU3RhdGUoaWQsIHdlcnQsIHsibmFtZSI6IGJlc2NocmVpYnVuZywgInR5cGUiOiB0eXB9KTs=</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
   </block>\
-  <block type="procedures_defnoreturn" id="l.,#W?]y-tB^?Ied\{uBV" collapsed="true" x="388" y="2113">\
+  <block type="procedures_defnoreturn" id="l.,#W?]y-tB^?Ied\{uBV" collapsed="true" x="388" y="2063">\
     <field name="NAME">Sending_Telegram_Message</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -3013,7 +3013,7 @@
             <field name="UNIT">ms</field>\
             <statement name="STATEMENT">\
               <block type="telegram" id="ouo/tE:T_U(vEL%qHPak">\
-                <field name="INSTANCE">.0</field>\
+                <field name="INSTANCE">.2</field>\
                 <field name="LOG"></field>\
                 <field name="SILENT">FALSE</field>\
                 <field name="PARSEMODE">default</field>\
@@ -3039,7 +3039,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="Ao%AqqyNO/@u?h8q,)(w" collapsed="true" x="388" y="2138">\
+  <block type="procedures_defnoreturn" id="Ao%AqqyNO/@u?h8q,)(w" collapsed="true" x="388" y="2088">\
     <field name="NAME">Variablen_definieren</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -3093,7 +3093,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="5/C@wdfWcD()lQacnUq1" collapsed="true" x="388" y="2163">\
+  <block type="procedures_defnoreturn" id="5/C@wdfWcD()lQacnUq1" collapsed="true" x="388" y="2113">\
     <field name="NAME">Scriptstart</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -3150,7 +3150,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="#7_;o!N%sOIE#4V33?2?" collapsed="true" x="388" y="2188">\
+  <block type="procedures_defnoreturn" id="#7_;o!N%sOIE#4V33?2?" collapsed="true" x="388" y="2138">\
     <field name="NAME">Debugmode</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -3474,7 +3474,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="4d2hhMVXew3JFa82P4F`" collapsed="true" x="388" y="2213">\
+  <block type="procedures_defnoreturn" id="4d2hhMVXew3JFa82P4F`" collapsed="true" x="388" y="2163">\
     <field name="NAME">Datenpunkte anlegen</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -4658,7 +4658,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="j)jt$g\{+T_D.Vk]V3mDc" collapsed="true" x="388" y="2238">\
+  <block type="procedures_defnoreturn" id="j)jt$g\{+T_D.Vk]V3mDc" collapsed="true" x="388" y="2188">\
     <field name="NAME">Variablen_setzen</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -4842,7 +4842,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="X:bdHBZo6nQH$KJg(vX3" collapsed="true" x="388" y="2263">\
+  <block type="procedures_defnoreturn" id="X:bdHBZo6nQH$KJg(vX3" collapsed="true" x="388" y="2213">\
     <field name="NAME">Laufzeit_Chlor_kalibrieren</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -5250,7 +5250,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="vv0THV*4Y50iN6=cQn0o" collapsed="true" x="388" y="2288">\
+  <block type="procedures_defnoreturn" id="vv0THV*4Y50iN6=cQn0o" x="388" y="2238">\
     <field name="NAME">Berechnung_Laufzeit_PH_Minus</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -5481,7 +5481,7 @@
                                 </value>\
                                 <value name="ADD1">\
                                   <block type="text" id="aq6!;!oL__07[?~.H;jY">\
-                                    <field name="TEXT">PH_nach_Abgabe</field>\
+                                    <field name="TEXT">PH_Wert_ist</field>\
                                   </block>\
                                 </value>\
                               </block>\
@@ -6368,7 +6368,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="#Q-QbUdA0T7DfE;iVcQs" collapsed="true" x="388" y="2313">\
+  <block type="procedures_defnoreturn" id="#Q-QbUdA0T7DfE;iVcQs" collapsed="true" x="388" y="2263">\
     <field name="NAME">Chlor_abgeben</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -6481,7 +6481,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="f~I4Rrz/z!l7I)O6.mDd" collapsed="true" disabled-reasons="MANUALLY_DISABLED" x="388" y="2338">\
+  <block type="procedures_defnoreturn" id="f~I4Rrz/z!l7I)O6.mDd" collapsed="true" disabled-reasons="MANUALLY_DISABLED" x="388" y="2288">\
     <field name="NAME">Check_Leitung_Chlor</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
@@ -6650,7 +6650,7 @@
       </block>\
     </statement>\
   </block>\
-  <block type="procedures_defnoreturn" id="r?)o00bYrEJRT3$8QNCJ" collapsed="true" disabled-reasons="MANUALLY_DISABLED" x="388" y="2363">\
+  <block type="procedures_defnoreturn" id="r?)o00bYrEJRT3$8QNCJ" collapsed="true" disabled-reasons="MANUALLY_DISABLED" x="388" y="2313">\
     <field name="NAME">Check_Leitung_PH_Minus</field>\
     <comment pinned="false" h="80" w="160">Beschreibe diese Funktion \'85</comment>\
     <statement name="STACK">\
