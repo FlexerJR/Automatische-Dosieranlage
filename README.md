@@ -44,11 +44,11 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :white_check_mark: Runtime will be corrected, if your chlorine becomes more and more inefficient.<br>
 :white_check_mark: You can add water to your pool at any time without worrying about the pH value.<br>
 :white_check_mark: When the pool is covered, automatic run time optimization occurs, using less chemicals.<br>
-:white_check_mark: (Coming soon) There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 :white_check_mark: The goal is to gradually reduce the pH to 7.2 (adjustable) and below over several days with smaller amounts of chemicals.<br>
 :white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.<br>
 :white_check_mark: New mechanism for chlorine.<br>
 :white_check_mark: pH has priority over chlorine.<br>
+:white_check_mark: (Coming soon) There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 
 <br>
 
@@ -62,9 +62,9 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :smiley: Auto recalibration if autocalibration doesn't match anymore<br>
 <br>
 
-<h3>Hardware needed</h3>
-:wrench:Ping adapter iobroker
-:wrench:Sonoff adapter or similar
+<h3>Hardware needed</h3><br>
+:wrench:Ping adapter iobroker<br>
+:wrench:Sonoff adapter or similar<br>
 :wrench:Sensor for pH and redox<br>
 :wrench:Switch for pool pump<br>
 :wrench:Switch for pH pump<br>
