@@ -208,6 +208,9 @@ Todo and upcoming feautures <br>
 -Rebuild of error and warning messages<br>
 -Some datapoints are unnecessary for new logic and have to be deleted. <br><br>
 
+Changes 4.1.4 alpha: <br>
+-Minor bug fix<br>
+
 Changes 4.1.3 alpha: <br>
 -Minor bug fixes of PH Minus calculation<br>
 
