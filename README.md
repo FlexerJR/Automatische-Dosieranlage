@@ -33,11 +33,12 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 
 <h3>Key features:</h3>
 
-:white_check_mark: V4.1. has new mechanism for chlorine.<br>
-:white_check_mark: Smooth release of chlorine to give constant redox level. Hell, thats hot!<br>
-:white_check_mark: A long-term test is done for script logic<br>
 :white_check_mark: The run time of pump operation is self-calculating.<br>
-:white_check_mark: pH has priority over chlorine.<br>
+:white_check_mark: A long-term test is done for script logic<br>
+:white_check_mark: New safety feature. Kill function if wifi connection to pumps is lost.<br>
+:white_check_mark: Automatic shutdown of automode if poolpump is stopped.<br>
+:white_check_mark: Smooth release of chlorine to give constant redox level. Hell, thats hot!<br>
+:white_check_mark: Automode is switched on after 30 minutes when poolpump is active again.<br>
 :white_check_mark: You can use any pump system you want. We only need a switch for on/off.<br>
 :white_check_mark: Weather influences are automatically corrected.<br>
 :white_check_mark: Runtime will be corrected, if your chlorine becomes more and more inefficient.<br>
@@ -46,6 +47,9 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :white_check_mark: (Coming soon) There are error messages if there are issues with the suction, which could indicate empty canisters or problems with the hose routing.<br>
 :white_check_mark: The goal is to gradually reduce the pH to 7.2 (adjustable) and below over several days with smaller amounts of chemicals.<br>
 :white_check_mark: Alias binding for your datapoints. Just enter your sensors and fire up the script.<br>
+:white_check_mark: New mechanism for chlorine.<br>
+:white_check_mark: pH has priority over chlorine.<br>
+
 <br>
 
 <h3>Outlook of future version:</h3><br>
@@ -59,6 +63,8 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 <br>
 
 <h3>Hardware needed</h3>
+:wrench:Ping adapter iobroker
+:wrench:Sonoff adapter or similar
 :wrench:Sensor for pH and redox<br>
 :wrench:Switch for pool pump<br>
 :wrench:Switch for pH pump<br>
