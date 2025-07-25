@@ -56,7 +56,7 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 :smiley: Auto recalibration if autocalibration doesn't match anymore<br>
 <br>
 
-<h3>Hardware/software needed</h3><br>
+<h3>Hardware/Software needed</h3><br>
 :wrench:Javascript Adapter 9.0.9. or higher<br>
 :wrench:Ping adapter iobroker<br>
 :wrench:Sonoff adapter or similar<br>
