@@ -81,10 +81,6 @@ Here you can see the delta value. The red line shows the deviation from selected
 <br>
 <img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/05bf7508-4ae1-4f86-8ff4-83c3a57747da" />
 <br>
-<img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/a66f0047-6a06-4c75-8f9e-37aa744b63ad" />
-
-<br>
-
 <br>
 
 <br>
