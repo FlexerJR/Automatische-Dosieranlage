@@ -101,16 +101,6 @@ Check wiki page for further explanation https://github.com/FlexerJR/Automatische
 <br>
 This comprehensive setup ensures your pool maintenance is automated, efficient and adaptable to different pool sizes and conditions.
 
-Here you can see the control of pH value
-<br>
-<br>
-<img width="570" alt="Bildschirmfoto 2025-07-02 um 11 17 22" src="https://github.com/user-attachments/assets/8473c399-2f72-4d61-acdc-ae8c564107d8" />
-
-Here you can see Redox value
-<br>
-<br>
-<img width="570" alt="Bildschirmfoto 2025-07-02 um 11 18 41" src="https://github.com/user-attachments/assets/614d3ad7-4499-4a48-b809-245e74a0b342" />
-
 <h3>Step 1: Automatically measure pH and Redox values.</h3>
 
 First things first<br>
