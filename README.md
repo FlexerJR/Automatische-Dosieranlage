@@ -69,14 +69,17 @@ Download rtf file open it with texteditor or smililar. Import text in Blocklyedi
 <br>
 
 
-<H4>Here one screenshot of V4.1. (released)</H4>
-<br>
-<img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/d04955dd-acbd-423c-9f0e-a615c5d49415" />
+<H4>Here one screenshot of V4.1.6. beta (released)</H4>
 <br>
 
+Here you can see the delta value. The red line shows the deviation from selected redox target. The white line shows runtime in seconds.
+<br><br>
 
+<img width="583" alt="Bildschirmfoto 2025-07-28 um 21 35 49" src="https://github.com/user-attachments/assets/f33ab79e-4f98-44fd-86ea-6fe444df3372" />
+<br>
+<img width="583" alt="Bildschirmfoto 2025-07-28 um 21 34 48" src="https://github.com/user-attachments/assets/1d17d3ef-ad98-4e07-b2b2-33d05d52f810" />
+<br>
 <img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/05bf7508-4ae1-4f86-8ff4-83c3a57747da" />
-
 <br>
 <img width="583" alt="Bildschirmfoto 2025-07-05 um 20 11 26" src="https://github.com/user-attachments/assets/a66f0047-6a06-4c75-8f9e-37aa744b63ad" />
 
