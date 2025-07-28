@@ -209,6 +209,9 @@ Todo and upcoming feautures <br>
 -Rebuild of error and warning messages<br>
 -Some datapoints are unnecessary for new logic and have to be deleted. <br><br>
 
+Changes 4.1.6 beta: <br>
+-This evrsion is tested for 7 days. No bugs, no failures. Final release of stable after stress test.<br>
+
 Changes 4.1.5 alpha: <br>
 -Introduced surveillance with ping adapter. This is very important! If you are loosing WIFI connection to your PH/Chlorine pumps while the pump is active, the pump will not receive a stop signal. <br> With this new version the script will monitor connection of your pumps and will switch it off when reconnected<br>
 
